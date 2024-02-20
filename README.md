@@ -7,6 +7,7 @@ The **Employee Management System** is a Spring Boot-based application that provi
 
 ### Security Configuration
 Implements Spring Security to control access to API endpoints based on user roles (EMPLOYEE, MANAGER, ADMIN). Provides options for user details management, including in-memory and JDBC configurations.
+![image](https://github.com/mrurespect/Employee-RestService/assets/121578147/388a691f-e32e-48ee-80f8-0443f4282343)
 
 ### RESTful API Controller
 Utilizes a RESTful API controller (`EmployeeRestController`) to perform CRUD operations on employee data. The controller supports the following endpoints:
